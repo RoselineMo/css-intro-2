@@ -1,0 +1,30 @@
+* {
+    background-color: white;
+    width: 82%;
+    margin: auto;
+    line-height: 26px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.p1, .p2, .p3 {
+    font-size: 14px;
+    border: 3px outset #6b6d6422;
+    border-radius: 4px;
+    padding: 11px;
+    margin: 8px auto;
+}
+
+.p1 {
+    color: green;
+}
+
+.p2 {
+    color: red;
+}
+
+.p3 {
+    color: blue;
+}
